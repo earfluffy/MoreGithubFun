@@ -18,6 +18,7 @@
    ## Level 2 Header
    
    ##Formatting
+   
    *italics*
    **bold**
    ~~strikethrough~~
