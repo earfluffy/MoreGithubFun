@@ -1,4 +1,4 @@
-   MoreGithubFun (this is a title)
+   MoreGithubFun (this is a title) :) :)
    -------------------------------
    This is paragraph text... 
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis libero nec sagittis tempus. 
