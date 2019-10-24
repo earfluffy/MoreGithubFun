@@ -1,4 +1,4 @@
-   MoreGithubFun (this is a title) ~~
+   MoreGithubFun (this is a title) :) :)
    -------------------------------
    This is paragraph text... 
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis libero nec sagittis tempus. 
@@ -17,43 +17,44 @@
    # Level 1 Header
    ## Level 2 Header
    
-   ##Formatting
-   
-   *italics*
-   **bold**
+<
+   ## Formatting
+   *italics*  
+   **bold**  
    ~~strikethrough~~
    
    `code`
    
    ```
-    multiline code text blah
-        ghslkdhg   
 
-    ```
+   multiline code text blah
+   ghslkdhg
+   ```
+   
+   Block quote
+   can span multiple lines
 
-    >Block quote
-    >can span multiple lines
     
-    unordered lists
-    * item 1
-    * item 2
-    * item 3
+   unordered lists
+   * item 1
+   * item 2
+   * item 3
     
-    ordered lists
-    1. item 1
-    1. item 2
-    1. item 3
-        * nested undordered list
-        * still cant see rendered text
+   ordered lists
+   1. item 1
+   1. item 2
+   1. item 3
+       * nested undordered list
+       * still cant see rendered text
     
-    ## Links    
-    [link text](url)
+   ## Links    
+   [link text](url)
     
-    ## Images
-    ![alt text](https://foliovision.com/images/2017/03/i-love-markdown.png)
+   ## Images
+   ![alt text](https://foliovision.com/images/2017/03/i-love-markdown.png)
     
-    ## Tables
-    | col 1 | col 2 |
-    |-------|-------|
-    |item 1 | item 2|
-    |item 3 | item 4|
+   ## Tables
+   | col 1 | col 2 |
+   |-------|-------|
+   |item 1 | item 2|
+   |item 3 | item 4|
