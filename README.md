@@ -1,4 +1,4 @@
-   MoreGithubFun (this is a title)
+   MoreGithubFun (this is a title) ~~
    -------------------------------
    This is paragraph text... 
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis libero nec sagittis tempus. 
@@ -18,16 +18,18 @@
    ## Level 2 Header
    
    ##Formatting
+   
    *italics*
    **bold**
    ~~strikethrough~~
    
    `code`
    
-   ```multiline code text blah
+   ```
+    multiline code text blah
         ghslkdhg   
 
-```
+    ```
 
     >Block quote
     >can span multiple lines
