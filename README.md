@@ -26,32 +26,32 @@
    
    ```
    multiline code text blah
-        ghslkdhg   
+   ghslkdhg
    ```
-
-    >Block quote
-    >can span multiple lines
+   
+   Block quote
+   can span multiple lines
     
-    unordered lists
+   unordered lists
     * item 1
     * item 2
     * item 3
     
-    ordered lists
+   ordered lists
     1. item 1
     1. item 2
     1. item 3
         * nested undordered list
         * still cant see rendered text
     
-    ## Links    
-    [link text](url)
+   ## Links    
+   [link text](url)
     
-    ## Images
-    ![alt text](https://foliovision.com/images/2017/03/i-love-markdown.png)
+   ## Images
+   ![alt text](https://foliovision.com/images/2017/03/i-love-markdown.png)
     
-    ## Tables
-    | col 1 | col 2 |
-    |-------|-------|
-    |item 1 | item 2|
-    |item 3 | item 4|
+   ## Tables
+   | col 1 | col 2 |
+   |-------|-------|
+   |item 1 | item 2|
+   |item 3 | item 4|
